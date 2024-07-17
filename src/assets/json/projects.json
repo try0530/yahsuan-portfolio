@@ -1,0 +1,38 @@
+[
+  {
+    "name": "E-Commerce",
+    "skills": ["HTML/CSS", "JavaScript", "React.js"],
+    "desc": "This is a e-commerce website",
+    "github": "https://github.com/try0530/react-ecommerce01",
+    "live": "https://react-ecommerce01-tau.vercel.app/",
+    "img": "ecommerce",
+    "imgdesc": "ecommerce preview"
+  },
+  {
+    "name": "Dashboard",
+    "skills": ["HTML/CSS", "JavaScript", "React.js"],
+    "desc": "",
+    "github": "#",
+    "live": "#",
+    "img": "dashboard",
+    "imgdesc": "dashboard preview"
+  },
+  {
+    "name": "Youtube Clone",
+    "skills": ["HTML/CSS", "JavaScript", "React.js", "Next.js"],
+    "desc": "",
+    "github": "#",
+    "live": "#",
+    "img": "youtube",
+    "imgdesc": "youtube clone preview"
+  },
+  {
+    "name": "Pokemon Random Sketch",
+    "skills": ["P5.js"],
+    "desc": "This project using p5.js to build the pokemon sketch randomly. Everytime when user refresh the page, the sketch will randomly sketch again.",
+    "github": "https://github.com/try0530/p5-pokemon-random-sketch",
+    "live": "#",
+    "img": "pokemon",
+    "imgdesc": "pokemon sketch preview"
+  }
+]
