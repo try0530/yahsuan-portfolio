@@ -156,7 +156,7 @@ const Navbar = () => {
         >
           Educations
         </Link>
-        <Link
+        {/* <Link
           activeClass="active"
           to="education"
           spy={true}
@@ -169,7 +169,8 @@ const Navbar = () => {
           }}
         >
           Resume
-        </Link>
+        </Link> */}
+        <button></button>
       </div>
     </nav>
   );
