@@ -13,6 +13,7 @@ const Intro = () => {
           <p>&#9866;</p>
           <div className="intro-contact">
             <a href="mailto:yy9451@rit.edu" target="_blank" rel="noreferrer">
+              <i className="fa-regular fa-envelope i-decorate-white" />
               yy9451@rit.edu
             </a>
             <a
@@ -20,6 +21,7 @@ const Intro = () => {
               target="_blank"
               rel="noreferrer"
             >
+              <i className="fa-brands fa-linkedin i-decorate-white" />
               /yahsuan-yang-terry
             </a>
           </div>

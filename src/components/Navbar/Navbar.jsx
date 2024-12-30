@@ -2,10 +2,7 @@ import { useState } from "react";
 import "./navbar.css";
 import { Link } from "react-scroll";
 
-import resumeImg from "../../assets/images/resume.png";
 import resume from "../../assets/documents/resume.pdf";
-
-import menu from "../../assets/images/menu.png";
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
@@ -70,21 +67,18 @@ const Navbar = () => {
         </Link>
       </div>
       <button
-        className="desktopMenuBtn"
+        className="desktopMenuBtn resume-btn"
         onClick={() => {
           window.open(resume, "_blank");
         }}
       >
-        <img src={resumeImg} alt="" className="desktopMenuImg" />
+        <i className="fa-regular fa-file" />
         Resume
       </button>
 
-      <img
-        src={menu}
-        alt="Menu"
-        className="mobMenu"
-        onClick={() => setShowMenu(!showMenu)}
-      />
+      <div className="mobMenu" onClick={() => setShowMenu(!showMenu)}>
+        <i className="fa-solid fa-bars" />
+      </div>
       <div className="navMenu" style={{ display: showMenu ? "flex" : "none" }}>
         <Link
           activeClass="active"
@@ -170,7 +164,6 @@ const Navbar = () => {
         >
           Resume
         </Link> */}
-        <button></button>
       </div>
     </nav>
   );

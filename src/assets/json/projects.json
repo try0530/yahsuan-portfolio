@@ -1,5 +1,30 @@
 [
   {
+    "name": "Portfolio",
+    "skills": ["React"],
+    "desc": "My Portfolio Website",
+    "github": "https://github.com/try0530/yahsuan-portfolio",
+    "live": "https://yahsuan-yang-portfolio.vercel.app/",
+    "img": "portfolio",
+    "imgdesc": "Portfolio Preview"
+  },
+  {
+    "name": "iSchool Website",
+    "skills": [
+      "React",
+      "MUI",
+      "Semantic-React UI",
+      "Google Map API",
+      "API",
+      "Vite"
+    ],
+    "desc": "iSchool Website include the school informations. Using MUI and Semantic-React UI to manage the data and the google map api to show the data with the map.",
+    "github": "https://github.com/try0530/iste340-project02",
+    "live": "https://iste340-project02.vercel.app/",
+    "img": "ischool",
+    "imgdesc": "iSchool Website preview"
+  },
+  {
     "name": "E-Commerce",
     "skills": ["HTML/CSS", "JavaScript", "React.js"],
     "desc": "This is a e-commerce website",

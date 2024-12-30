@@ -10,20 +10,20 @@ const Footer = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <i className="fa-regular fa-envelope i-decorate-white"></i>
+          <i className="fa-regular fa-envelope i-decorate-white" />
         </a>
         <a
           href="https://www.linkedin.com/in/yahsuan-yang-terry/"
           target="_blank"
           rel="noreferrer"
         >
-          <i className="fa-brands fa-linkedin i-decorate-white"></i>
+          <i className="fa-brands fa-linkedin i-decorate-white" />
         </a>
         <a href="" target="_blank" rel="noreferrer">
-          <i className="fa-brands fa-github i-decorate-white"></i>
+          <i className="fa-brands fa-github i-decorate-white" />
         </a>
         <a href="tel:+15623992474">
-          <i className="fa-solid fa-phone i-decorate-white"></i>
+          <i className="fa-solid fa-phone i-decorate-white" />
         </a>
       </div>
     </footer>
