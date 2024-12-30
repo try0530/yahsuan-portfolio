@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "ARGOTEK",
+    "title": "Software Developer",
+    "location": "Taipei, Taiwan",
+    "time": "April 2018 - February 2021",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "Chung Yuan Christian University",
+    "title": "Teaching Assistant",
+    "location": "Taoyuan, Taiwan",
+    "time": "September 2017 - Januarty 2018",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "MEDICI INC",
+    "title": "Intern",
+    "location": "Hsinchu, Taiwan",
+    "time": "July 2015 - August 2015",
+    "description": ""
+  }
+]

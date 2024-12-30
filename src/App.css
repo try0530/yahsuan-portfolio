@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background: transparent;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #dcdddc;
+  color: #022346;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
