@@ -3,7 +3,7 @@ import "./footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>Copyright &#169; 2024 Ya-Hsuan Yang, All right received</p>
+      <p>Copyright &#169; 2025 Ya-Hsuan Yang</p>
       <div className="footer-contact">
         <a
           href="mailto:s900003terry@gmail.com"
@@ -19,7 +19,7 @@ const Footer = () => {
         >
           <i className="fa-brands fa-linkedin i-decorate-white" />
         </a>
-        <a href="" target="_blank" rel="noreferrer">
+        <a href="https://github.com/try0530" target="_blank" rel="noreferrer">
           <i className="fa-brands fa-github i-decorate-white" />
         </a>
         <a href="tel:+15623992474">
