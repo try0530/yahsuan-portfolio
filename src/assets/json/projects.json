@@ -25,38 +25,20 @@
     "imgdesc": "iSchool Website preview"
   },
   {
-    "name": "E-Commerce",
-    "skills": ["HTML/CSS", "JavaScript", "React.js"],
-    "desc": "This is a e-commerce website",
-    "github": "https://github.com/try0530/react-ecommerce01",
-    "live": "https://react-ecommerce01-tau.vercel.app/",
-    "img": "ecommerce",
-    "imgdesc": "ecommerce preview"
-  },
-  {
-    "name": "Dashboard",
-    "skills": ["HTML/CSS", "JavaScript", "React.js"],
+    "name": "Find Your Interested",
+    "skills": ["JavaScript", "fetch API", "localStorage", "cookies"],
     "desc": "",
-    "github": "#",
-    "live": "#",
-    "img": "dashboard",
-    "imgdesc": "dashboard preview"
-  },
-  {
-    "name": "Youtube Clone",
-    "skills": ["HTML/CSS", "JavaScript", "React.js", "Next.js"],
-    "desc": "",
-    "github": "#",
-    "live": "#",
-    "img": "youtube",
-    "imgdesc": "youtube clone preview"
+    "github": "https://github.com/try0530/iste340-project01",
+    "live": "https://try0530.github.io/iste340-project01/",
+    "img": "findInterested",
+    "imgdesc": "Find Your Interested preview"
   },
   {
     "name": "Pokemon Random Sketch",
     "skills": ["P5.js"],
     "desc": "This project using p5.js to build the pokemon sketch randomly. Everytime when user refresh the page, the sketch will randomly sketch again.",
     "github": "https://github.com/try0530/p5-pokemon-random-sketch",
-    "live": "#",
+    "live": "https://try0530.github.io/p5-pokemon-random-sketch/",
     "img": "pokemon",
     "imgdesc": "pokemon sketch preview"
   }

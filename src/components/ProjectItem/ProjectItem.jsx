@@ -5,12 +5,14 @@ import portfolio from "../../assets/images/portfolio.jpg";
 import studentRecycleCenter from "../../assets/images/student-recycle-center.jpg";
 import kaleidoscope from "../../assets/images/kaleidoscope.jpg";
 import ischool from "../../assets/images/ischool.jpg";
+import findInterested from "../../assets/images/findInterested.jpg";
 
 const ProjectItem = ({ data }) => {
   // import the images first and use the images to match with the data.img
   const images = {
     portfolio: portfolio,
     ischool: ischool,
+    findInterested: findInterested,
     pokemon: pokemon,
     studentRecycleCenter: studentRecycleCenter,
     kaleidoscope: kaleidoscope,
