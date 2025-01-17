@@ -18,7 +18,7 @@
       "API",
       "Vite"
     ],
-    "desc": "iSchool Website include the school informations. Using MUI and Semantic-React UI to manage the data and the google map api to show the data with the map.",
+    "desc": "The iSchool website includes information about the school. It uses MUI and Semantic-React UI to manage the data, and the Google Maps API to display the data on a map.",
     "github": "https://github.com/try0530/iste340-project02",
     "live": "https://iste340-project02.vercel.app/",
     "img": "ischool",
@@ -27,7 +27,7 @@
   {
     "name": "Find Your Interested",
     "skills": ["JavaScript", "fetch API", "localStorage", "cookies"],
-    "desc": "",
+    "desc": "The website is a recommender system. It is built with dynamic JavaScript and stores user's information in localStorage or cookies.",
     "github": "https://github.com/try0530/iste340-project01",
     "live": "https://try0530.github.io/iste340-project01/",
     "img": "findInterested",
@@ -36,7 +36,7 @@
   {
     "name": "Pokemon Random Sketch",
     "skills": ["P5.js"],
-    "desc": "This project using p5.js to build the pokemon sketch randomly. Everytime when user refresh the page, the sketch will randomly sketch again.",
+    "desc": "This project using p5.js to build a pokemon sketch randomly. Everytime when user refresh the page, the sketch will randomly sketch again.",
     "github": "https://github.com/try0530/p5-pokemon-random-sketch",
     "live": "https://try0530.github.io/p5-pokemon-random-sketch/",
     "img": "pokemon",

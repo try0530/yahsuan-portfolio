@@ -5,7 +5,7 @@ import Timeline from "../Timeline/Timeline";
 const Educations = () => {
   return (
     <section id="educations">
-      <h2 className="educationsTitle">Educations</h2>
+      <h2 className="educationsTitle">Education</h2>
       <Timeline timelineData={educations} />
     </section>
   );

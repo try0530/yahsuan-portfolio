@@ -2,14 +2,14 @@
   {
     "name": "Student Recycle Center",
     "skills": ["UX Research", "UX Design"],
-    "desc": "The Student Recycle Center project is an UX research and UX design group project which focus on helping people matching each other to recycle and reuse the materials, books, and other acedemic things to decrease the waste.",
+    "desc": "The Student Recycle Center project is a UX research and UX design group project focused on helping people connect with each other to reduce waste and recycle or reuse materials which are no longer needed by other people.",
     "live": "https://teamsantorini.notion.site/Student-Recycle-Center-4ad4bf92b4b5446590194d4f11f6b718?pvs=4",
     "img": "studentRecycleCenter"
   },
   {
     "name": "Kaleidoscope Puzzle",
     "skills": ["Board Game Design", "UX Design", "UX Research"],
-    "desc": "",
+    "desc": "Kaleidoscope Puzzle is a single-player board game designed with primary colors. The game features six types of cards, each containing two primary colors. The objective is to arrange the cards to create the six colors shown on the challenge card.",
     "live": "https://www.thinkfun.com/products/kaleidoscope-puzzle/",
     "img": "kaleidoscope"
   }
