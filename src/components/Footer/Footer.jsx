@@ -6,7 +6,7 @@ const Footer = () => {
       <p>Copyright &#169; 2025 Ya-Hsuan Yang</p>
       <div className="footer-contact">
         <a
-          href="mailto:s900003terry@gmail.com"
+          href="mailto:terry.yangyh@gmail.com"
           target="_blank"
           rel="noreferrer"
         >

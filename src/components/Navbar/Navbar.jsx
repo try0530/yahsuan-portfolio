@@ -63,7 +63,7 @@ const Navbar = () => {
           duration={300}
           className="desktopMenuListItem"
         >
-          Educations
+          Education
         </Link>
       </div>
       <button
@@ -148,22 +148,16 @@ const Navbar = () => {
             setShowMenu(false);
           }}
         >
-          Educations
+          Education
         </Link>
-        {/* <Link
-          activeClass="active"
-          to="education"
-          spy={true}
-          smooth={true}
-          offset={-50}
-          duration={500}
+        <Link
           className="listItem"
           onClick={() => {
-            setShowMenu(false);
+            window.open(resume, "_blank");
           }}
         >
           Resume
-        </Link> */}
+        </Link>
       </div>
     </nav>
   );

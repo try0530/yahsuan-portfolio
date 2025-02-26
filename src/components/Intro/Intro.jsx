@@ -12,9 +12,13 @@ const Intro = () => {
           </h4>
           <p>&#9866;</p>
           <div className="intro-contact">
-            <a href="mailto:yy9451@rit.edu" target="_blank" rel="noreferrer">
+            <a
+              href="mailto:terry.yangyh@gmail.com"
+              target="_blank"
+              rel="noreferrer"
+            >
               <i className="fa-regular fa-envelope i-decorate-white" />
-              yy9451@rit.edu
+              terry.yangyh@gmail.com
             </a>
             <a
               href="https://www.linkedin.com/in/yahsuan-yang-terry/"
